@@ -7,6 +7,7 @@ import java.util.Random;
 
 public enum EventType {
 
+    BIRTHDAY_EVENT,
     SWALLOWED_EXCEPTION,
     CAUGHT_EXCEPTION,
     UNCAUGHT_EXCEPTION,
